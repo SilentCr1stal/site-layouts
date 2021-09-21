@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: 'Poppins Regular';
+  font-display: swap;
+  src: url('../fonts/Poppins-Regular.ttf') format('truetype');
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Poppins Extra';
+  src: url('../fonts/Poppins-ExtraBold.ttf') format('truetype');
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Poppins Thin';
+  src: url('../fonts/Poppins-Thin.ttf') format('truetype');
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Poppins Semi';
+  src: url('../fonts/Poppins-SemiBold.ttf') format('truetype');
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Poppins Medium';
+  src: url('../fonts/Poppins-Medium.ttf') format('truetype');
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Port Lligat Sans';
+  src: url('../fonts/PortLligatSans-Regular.ttf') format('truetype');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}

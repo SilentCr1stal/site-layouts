@@ -1,0 +1,160 @@
+a,
+abbr,
+acronym,
+address,
+applet,
+article,
+aside,
+audio,
+b,
+big,
+blockquote,
+button,
+canvas,
+caption,
+center,
+cite,
+code,
+dd,
+del,
+details,
+dfn,
+div,
+dl,
+dt,
+em,
+embed,
+fieldset,
+figcaption,
+figure,
+footer,
+form,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+header,
+hgroup,
+i,
+iframe,
+img,
+input,
+ins,
+kbd,
+label,
+legend,
+li,
+mark,
+menu,
+nav,
+object,
+ol,
+output,
+p,
+picture,
+pre,
+q,
+ruby,
+s,
+samp,
+section,
+select,
+small,
+source,
+span,
+strike,
+strong,
+sub,
+summary,
+sup,
+svg,
+table,
+tbody,
+td,
+textarea,
+tfoot,
+th,
+thead,
+time,
+tr,
+tt,
+u,
+ul,
+var,
+video {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  font: inherit;
+  outline: none;
+  text-decoration: none; }
+
+html {
+  line-height: 1;
+  font-size: 16px;
+  text-rendering: optimizeLegibility;
+  scroll-behavior: smooth; }
+
+body,
+html {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box; }
+
+*,
+:after,
+:before {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit; }
+
+input[type="number"],
+input[type="text"],
+select,
+textarea {
+  font-size: 16px; }
+
+button {
+  cursor: pointer; }
+
+article,
+aside,
+div,
+footer,
+header,
+main,
+nav,
+section {
+  display: block; }
+
+ol,
+ul {
+  list-style: none; }
+
+a,
+a:visited {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer; }
+
+a:active,
+a:focus {
+  outline: none; }
+
+img {
+  max-width: 100%;
+  height: 100%; }
+
+body {
+  -webkit-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  position: relative; }
